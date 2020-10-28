@@ -1,3 +1,3 @@
 # Arabic-NLP-Exploration
 
-a walkthrough different techniques for arabic sentiment analysis.
+a walkthrough for different techniques for arabic sentiment analysis.
